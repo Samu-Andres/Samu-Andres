@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="#">Herrera Samuel</a> 👋</h1>
 </div>
+<br>
 
-## Sobre mi
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 
