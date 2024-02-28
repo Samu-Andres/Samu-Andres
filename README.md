@@ -41,6 +41,13 @@
 
 <br>
 
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+   
+
+
+</p>
 
 
 
