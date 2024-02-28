@@ -62,50 +62,44 @@
   <img height="180em" src=""/>
 </a>
 </p>
+
 <br>
 <br>
+
+
+
+
+
+
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
-<a href="https://linkedin.com/in/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/ target="_blank">
-<img src="https://img.shields.io/badge/twitter:  &ogo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
+
+<br>
+<br>
+
+
+
 
 
 
 
 ## Contact us
-
+<div align='center'>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
+</a>
+	
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 <a href="mailto:" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>
