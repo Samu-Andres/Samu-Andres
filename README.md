@@ -57,7 +57,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="[https://github.com/ArisGuimera](https://github.com/Samu-Andres)">
+<a href="[https://github.com/Samu-Andres](https://github.com/Samu-Andres)">
   <img height="180em" src=""/>
   <img height="180em" src=""/>
 </a>
