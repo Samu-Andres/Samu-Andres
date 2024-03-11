@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="#">Herrera Samuel</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://github.com/Samu-Andres">Herrera Samuel</a> 👋</h1>
 </div>
 <br>
 
@@ -39,7 +39,6 @@
 
     
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
 
@@ -57,16 +56,6 @@
 
 
 <br>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="[https://github.com/Samu-Andres](https://github.com/Samu-Andres)">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
-</a>
-</p>
-
 <br>
 <br>
 <br>
