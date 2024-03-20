@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icono.jpeg">
+  ## <picture><img src = "/img/Icono.jpeg" width = 50px></picture>
   <h1 align="center">Hello, I'm <a href="https://github.com/Samu-Andres">Samuel Herrera</a> 👋</h1>
 </div>
 <br>
