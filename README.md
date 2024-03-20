@@ -1,6 +1,6 @@
 <div align="center">
-  <picture><img src = "/img/Icono.jpeg" width = 100px></picture>
   <h1 align="center">Hello, I'm <a href="https://github.com/Samu-Andres">Samuel Herrera</a> 👋</h1>
+	<picture><img src = "/img/Icono.jpeg" width = 300px></picture>
 </div>
 <br>
 
