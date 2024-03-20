@@ -1,10 +1,10 @@
 <div align="center">
-  ## <picture><img src = "/img/Icono.jpeg" width = 50px></picture>
+  <picture><img src = "/img/Icono.jpeg" width = 100px></picture>
   <h1 align="center">Hello, I'm <a href="https://github.com/Samu-Andres">Samuel Herrera</a> 👋</h1>
 </div>
 <br>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture> **About me**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p>Hello, I'm Samuel Andrés Herrera, I'm 24 years old, and I'm from Río Gallegos, Santa Cruz, Argentina. Currently, I'm studying Web Design and Programming at Da Vinci University, the first Multimedia Art School. My primary interest lies in Front-end development, although I'm also proficient in Back-end. My goal is to become a Full Stack Web Developer in the future.</p>
 
