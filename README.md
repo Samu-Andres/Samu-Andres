@@ -25,6 +25,7 @@
 <br>
 
 <i>Follow me:</i><br>
-
-<a href="https://www.linkedin.com/in/samuel-herrera-004634253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/Samuel12502617" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnicoposa1" alt="Twitter"></a>
+<div align="center">
+	<a href="https://www.linkedin.com/in/samuel-herrera-004634253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+	<a href="https://twitter.com/Samuel12502617" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%" alt="Twitter"></a>
+</div>
