@@ -2,7 +2,7 @@
 	<picture><img src = "/img/Icono.jpeg" width = 250px></picture>
   <h1 align="center">Hello, I'm <a href="https://github.com/Samu-Andres">Samuel Herrera</a> 👋</h1>
 </div>
-<br>
+
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
