@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> ## About me
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me
 
 <p>Hello, I'm Samuel Andrés Herrera, I'm 24 years old, and I'm from Río Gallegos, Santa Cruz, Argentina. Currently, I'm studying Web Design and Programming at Da Vinci University, the first Multimedia Art School. My primary interest lies in Front-end development, although I'm also proficient in Back-end. My goal is to become a Full Stack Web Developer in the future.</p>
 
@@ -49,7 +49,7 @@
 <br>
 <br>
 
-## Contact us
+** Contact us
 
 <div align='center'>
 <a href="" target="_blank">
