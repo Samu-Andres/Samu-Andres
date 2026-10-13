@@ -1,45 +1,72 @@
 <div align="center">
-	<h1 align="center">Hello, I'm <a href="https://github.com/Samu-Andres">Samuel Herrera</a> 👋</h1>
-  
-<p>Hello, I'm Samuel Andrés Herrera, I'm 27 years old, and I'm from Río Gallegos, Santa Cruz, Argentina. I'm finishing my degree in Web Design and Programming at Da Vinci University, the first Multimedia Art School — currently at the thesis stage. My primary interest lies in Front-end development, although I'm also proficient in Back-end. My goal is to become a Full Stack Web Developer in the future.</p>
+
+<h1>Hello, I'm <a href="https://samuel-herrera-portfolio.vercel.app/">Samuel Herrera</a> 👋</h1>
+
+<a href="https://samuel-herrera-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Front-end+Developer;Full+Stack+Developer+in+progress;React+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br>
 
-<div>
-	<p>Languages and Tools:</p>
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-  
-</div>
+<p align="center">
+I'm Samuel Andrés Herrera, 27 years old, from Río Gallegos, Santa Cruz, Argentina 🇦🇷.<br>
+I'm finishing my degree in <b>Web Design and Programming</b> at <b>Da Vinci University</b>, the first Multimedia Art School — currently at the thesis stage.<br>
+My main interest is <b>Front-end development</b>, though I'm also comfortable on the <b>Back-end</b>. My goal is to become a <b>Full Stack Web Developer</b>.
+</p>
 
 <br>
 
-<i>Follow me:</i><br>
-<div align="center">
-	<a href="https://samuel-herrera-portfolio.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=vercel&logoColor=white" /></a>
-	<a href="https://www.linkedin.com/in/samuel-a-herrera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-	<a href="https://twitter.com/SamuAHerrera" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=x&logoColor=white" /></a>
-	<a href="https://linktr.ee/samuel.herrera" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E.svg?style=flat-square&logo=linktree&logoColor=white" /></a>
-	<a href="https://github.com/Samu-Andres" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
-</div>
+## 🧠 Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,py,html,css,sass&perline=7" alt="Languages" />
+  </a>
+</p>
+
+## ⚛️ Frameworks & Libraries
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap,vite&perline=8" alt="Frameworks" />
+  </a>
+</p>
+
+## 🗄️ Databases & Backend Services
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql&perline=3" alt="Databases" />
+  </a>
+</p>
+
+## 🛠️ Tools & Deploy
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman,vercel,netlify&perline=8" alt="Tools" />
+  </a>
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samu-Andres&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu-Andres&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+</p>
+
+<br>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://samuel-herrera-portfolio.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samuel-a-herrera/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/SamuAHerrera" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linktr.ee/samuel.herrera" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://github.com/Samu-Andres" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
