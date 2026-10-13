@@ -3,18 +3,16 @@
 <h1>Hello, I'm <a href="https://samuel-herrera-portfolio.vercel.app/">Samuel Herrera</a> 👋</h1>
 
 <a href="https://samuel-herrera-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Front-end+Developer;Full+Stack+Developer+in+progress;React+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+in+progress;React+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
 
-<p align="center">
-I'm Samuel Andrés Herrera, 27 years old, from Río Gallegos, Santa Cruz, Argentina 🇦🇷.<br>
-I'm finishing my degree in <b>Web Design and Programming</b> at <b>Da Vinci University</b>, the first Multimedia Art School — currently at the thesis stage.<br>
-My main interest is <b>Front-end development</b>, though I'm also comfortable on the <b>Back-end</b>. My goal is to become a <b>Full Stack Web Developer</b>.
-</p>
+<p>Hello, I'm Samuel Andrés Herrera, I'm 27 years old, and I'm from Río Gallegos, Santa Cruz, Argentina. I'm finishing my degree in Web Design and Programming at Da Vinci University, the first Multimedia Art School — currently at the thesis stage. My primary interest lies in Front-end development, although I'm also proficient in Back-end. My goal is to become a Full Stack Web Developer in the future.</p>
+
+🎓 **Official degree (in progress):** Técnico Superior en Diseño y Programación Web — Escuela Da Vinci
 
 <br>
 
